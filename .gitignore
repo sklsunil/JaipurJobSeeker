@@ -1,0 +1,20 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/.vscode
+/src/.vs
+/src/Tests/Web.Api.Core.UnitTests/obj
+/src/Tests/Web.Api.Core.UnitTests/bin/Debug/netcoreapp2.2
+/src/Tests/Web.Api.Infrastructure.UnitTests/obj
+/src/Tests/Web.Api.Infrastructure.UnitTests/bin/Debug/netcoreapp2.2
+/src/Tests/Web.Api.IntegrationTests/bin/Debug/netcoreapp2.2
+/src/Tests/Web.Api.IntegrationTests/obj
+/src/Tests/Web.Api.UnitTests/obj
+/src/Tests/Web.Api.UnitTests/bin/Debug/netcoreapp2.2
+/src/Web.Api/bin/Debug/netcoreapp2.2
+/src/Web.Api/obj
+/src/Web.Api.Core/bin/Debug/netcoreapp2.2
+/src/Web.Api.Core/obj
+/src/Web.Api.Infrastructure/bin/Debug/netcoreapp2.2
+/src/Web.Api.Infrastructure/obj
